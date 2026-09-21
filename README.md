@@ -1,4 +1,4 @@
-# Markdown 語法教學
+# Markdown 語法
 
 ## 標題 (Headers)
 
