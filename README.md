@@ -1,7 +1,7 @@
 # 顏億安 
 ## 關於我 
 
-*思考比盲目努力更重要，保持好奇心與學習熱忱。*
+*保持好奇心與學習熱忱*
 
 ### 專業技能
 * **Python 程式開發**
@@ -21,3 +21,5 @@
 
 ```python
 print("Hello, Markdown!")
+
+![高科大 LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NKUST_logo.svg/500px-NKUST_logo.svg.png)
