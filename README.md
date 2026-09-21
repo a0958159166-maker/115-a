@@ -22,4 +22,4 @@
 ```python
 print("Hello, Markdown!")
 
-![高科大 LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NKUST_logo.svg/500px-NKUST_logo.svg.png)
+![高科大 LOGO]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NKUST_logo.svg](https://www.google.com/imgres?q=%E9%AB%98%E7%A7%91%E5%A4%A7%CB%87&imgurl=https%3A%2F%2Fwww.nkust.edu.tw%2Fvar%2Ffile%2F0%2F1000%2Fimg%2F513%2F203750709.png&imgrefurl=https%3A%2F%2Fwww.nkust.edu.tw%2Fp%2F412-1000-3248.php&docid=S4TqfxDYZ2_XTM&tbnid=4Hogs_n3MesJ1M&vet=12ahUKEwjqjdSliv-WAxWpcPUHHct5O50QnPAOegQIRRAA..i&w=4211&h=1832&hcb=2&ved=2ahUKEwjqjdSliv-WAxWpcPUHHct5O50QnPAOegQIRRAA)/500px-NKUST_logo.svg.png)
